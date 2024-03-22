@@ -10,7 +10,7 @@ J'ai nullement envie de faire un Licence d'informatique car ça serait une perte
 
 J'ai aussi postulé pour un master plus orienté mathématique, car j'ai le niveau pour, et la recherche en Optimisation m'interesse beaucoup.
 
-J'ai plusieurs projets d'avenire pour ma carriere qui passe par l'obtention d'un Master en IA / Optimisation Mathématique. J'éspère donc réelement valider cette VAPP.
+J'ai plusieurs projets d'avenire pour ma carriere qui passe par l'obtention d'un Master en IA / Optimisation Mathématique. J'éspère donc vivement valider cette VAPP.
 
 ### Raison du lien Github ###
 
@@ -29,3 +29,7 @@ Je n'ai pas de liens pour tous mes travaux car je n'ai pas toujours utilisé Git
 * ***Expériance_Intelligence_Artificielle.md*** - Où j'argumente de ma compétance en Optimisation Mathématique et ou je parle de mon gros Projet en Deep Learning. (~ 4 ans)
 
 * ***Expériance_Web_et_Reseau.md*** - Où je traite de mes connaissances en Systemes Reseau & Dans le développement Web. Ainsi que quelques de mes projets. (~ 3 ans)
+
+### - ###
+
+Corrdialement
