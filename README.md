@@ -34,6 +34,8 @@ Coordonnées : vadkashtanov@yandex.ru  +33677895253
 
 * ***Expériance_Web_et_Reseau.md*** - Où je traite de mes connaissances en Systemes Reseau & Dans le développement Web. Ainsi que quelques de mes projets. (~ 3 ans)
 
+*  ***Kashatnov Vadim.docx*** - Mon CV
+
 ### Etudes ###
 
 J'ai apris completement l'informatique en auto-didacte, mais j'ai néanmoins fait quelques etudes en informatique :
