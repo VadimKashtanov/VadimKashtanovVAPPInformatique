@@ -4,7 +4,7 @@ J'ai réunit tous les fichiers montrants mes aquis Personnels en Informatique du
 
 J'espère que mes résumés seront clairs.
 
-Je n'ai pas de liens pour tous mes travaux car je n'ai pas toujours utilisé Github, neanmoins, je serais ravis de venire en présenciel defendre à mes connaissance pour valider cette VAPP.
+Je n'ai pas de liens pour tous mes travaux car je n'ai pas toujours utilisé Github, neanmoins, je serais ravis de venire en présenciel defendre mes connaissance pour valider cette VAPP.
 
 ### Ce dossier comporte les fichiers suivants : ###
 
