@@ -4,7 +4,7 @@
 
 ### Objectif VAPP ###
 
-J'ai fais une licence Mathématique uniquement, que je n'ai pas terminé car je souhaite me réorienter vers une application de l'optimisation mathématique en Informatique : L'intelligence Artificielle. J'aime les mathématiques, mais je ne souhaite pas travailler dans toutes les branches de mathématiques.
+J'ai fais une licence Mathématique uniquement, que je n'ai pas terminé car je souhaite me réorienter vers une application de l'optimisation mathématique en Informatique : L'intelligence Artificielle. J'aime les mathématiques, mais je ne souhaite pas travailler dans toutes les branches des mathématiques.
 
 Je n'ai jamais fais de licence d'informatique. Il faut 2 ans au moins apres une reprise d'etudes pour une VAPP, si on considere ma Licence de Mathématiques comme une partie de mes aquis personnels, je suis dans le cadre de la VAPP.
 
@@ -12,7 +12,7 @@ J'ai nullement envie de faire un Licence d'informatique car ça serait une perte
 
 J'ai aussi postulé pour des master plus orientés mathématiques, car j'ai le niveau pour, et la recherche en Optimisation m'interesse beaucoup.
 
-J'ai plusieurs projets d'avenire pour ma carriere qui passe par l'obtention d'un Master en IA / Optimisation Mathématique. J'éspère donc vivement valider cette VAPP.
+J'ai plusieurs projets d'avenire pour ma carriere qui passe par l'obtention d'un Master en IA / Optimisation Mathématique. Je souhaite innover dans le domaine. J'éspère donc vivement valider cette VAPP.
 
 ### Raison du lien Github ###
 
