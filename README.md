@@ -12,6 +12,6 @@ Je n'ai pas de liens pour tous mes travaux car je n'ai pas toujours utilisé Git
 
 * ***Experiance_Languages.md*** - Où je liste tous les languages et technologies que j'ai maitrisé ou que j'utilise encore aujourd'hui.
 
-* ***Expériance_Intelligence_Artificielle.md*** - Où j'argumentes de ma compétance en Optimisation Mathématique et ou je parle de mon gros Projet en Deep Learning. (~ 4 ans)
+* ***Expériance_Intelligence_Artificielle.md*** - Où j'argumente de ma compétance en Optimisation Mathématique et ou je parle de mon gros Projet en Deep Learning. (~ 4 ans)
 
-* ***Expériance_Web_et_Reseau.md*** - Où je traites de mes connaissances en Systemes Reseau & Dans le développement Web. Ainsi que quelques de mes projets. (~ 3 ans)
+* ***Expériance_Web_et_Reseau.md*** - Où je traite de mes connaissances en Systemes Reseau & Dans le développement Web. Ainsi que quelques de mes projets. (~ 3 ans)
