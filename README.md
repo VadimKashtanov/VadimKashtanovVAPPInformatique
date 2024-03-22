@@ -30,6 +30,12 @@ Je n'ai pas de liens pour tous mes travaux car je n'ai pas toujours utilisé Git
 
 * ***Expériance_Web_et_Reseau.md*** - Où je traite de mes connaissances en Systemes Reseau & Dans le développement Web. Ainsi que quelques de mes projets. (~ 3 ans)
 
+### Etudes ###
+
+J'ai apris completement l'informatique en auto-didacte, mais j'ai néanmoins fait quelques etudes en informatique :
+* Au lycée, en 1ere, j'ai pris la spécialité Informatique.
+* En L1 portail Math-info-phy j'ai eu 2 semestre avec une UE d'initiation à l'informatique.
+
 ### - ###
 
 Corrdialement
