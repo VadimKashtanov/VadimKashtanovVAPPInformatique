@@ -1,5 +1,9 @@
 # Mon expériance Développement d'OS #
 
+J'ai pendant 1-2 ans appris comment les systemes opérationnels fonctionnnent et ai moi meme commencé a en faire un.
+
+La majorité de mes connaissances viennent de wiki.osdev.org. J'ai donc de l'expériance dans l'assembleur et du C au niveau Hardware. 
+
 # Mon expériance avec les systemes Linux #
 
 J'ai 5-6 ans d'expériance avec divers distributions linux comme : Ubuntu, Mint, Kali, Arch ou encore Fedora. Distributions que j'ai eu l'occasion d'installer et utiliser sur divers appareils plus ou moins vieux.
