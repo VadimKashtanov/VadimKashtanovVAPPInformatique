@@ -10,6 +10,8 @@ J'ai nullement envie de faire un Licence d'informatique car ça serait une perte
 
 J'ai aussi postulé pour un master plus orienté mathématique, car j'ai le niveau pour, et la recherche en Optimisation m'interesse beaucoup.
 
+J'ai plusieurs projets d'avenire pour ma carriere qui passe par l'obtention d'un Master en IA / Optimisation Mathématique. J'éspère donc réelement valider cette VAPP.
+
 ### Raison du lien Github ###
 
 J'ai réunit tous les fichiers montrants mes aquis Personnels en Informatique durant ma vie en un seul lieux pour ne pas avoir a lier trop de documents dans le mail.
