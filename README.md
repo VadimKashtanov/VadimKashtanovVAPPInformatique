@@ -1,6 +1,6 @@
-## Ici est mon Dossier VAPP ##
+# Ici est mon Dossier VAPP #
 
-# Ce dossier comporte les fichiers suivants : #
+### Ce dossier comporte les fichiers suivants : ###
 
 * Experiance_Cybersec_OS.md - Mon expériance de 2 ans dans ce domaine, ainsi que mes projets
 
