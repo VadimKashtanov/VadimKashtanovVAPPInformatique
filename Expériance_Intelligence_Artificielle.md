@@ -11,6 +11,15 @@ J'ai implémenté ma méthode en C++/CUDA ici :  https://github.com/VadimKashtan
 
 # Expériance Machine Learning & Deep learning #
 
+J'ai eu plusieurs versions pour mon projet d'IA :
+* Une premiere version 100% en C sur CPU qui pouvait resoudre des problemes de XOR a MNIST.
+* Une seconde expériance qui est résté une expériance ou je travaille sur la selection naturelle des reseau de neurones non denses.
+* Et enfin la version "moderne" qui ressemble probablement a un Tensorflow : https://github.com/VadimKashtanov/Filtres-1.4-4a1c3a1-
+
+Ma lib peut resoudre tout type de problemes. Seulement je me suis concentré depuis 1.5 ans sur la prédiction des "time series" a savoire la prédiction des courbes dans le temps (ex : le cour d'un Marché). J'utilise une methode alternative a LSTM meme si j'ai implémenté une version fonctionnelle et optimisé de LSTM.
+
+Perspectives : Peut etre que je passerai a des problemes plus complexes comme la compehention de la langue, mais je pense que ça fera l'objet de mon Master 2.
+
 # Expériance Data Visualisation #
 
 # Expériance Calcule Haute performance & Vitesse avec CUDA #
