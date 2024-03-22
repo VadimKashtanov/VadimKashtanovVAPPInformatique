@@ -1,4 +1,4 @@
-# Experiance Optimisation Mathématique #
+# Expériance Optimisation Mathématique #
 
 # Expériance Machine Learning & Deep learning #
 
