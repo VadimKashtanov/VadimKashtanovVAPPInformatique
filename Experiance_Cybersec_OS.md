@@ -1,6 +1,12 @@
 # Mon expériance Développement d'OS #
 
-J'ai pendant 1-2 ans appris comment les systemes opérationnels fonctionnnent et ai moi meme commencé a en faire un.
+J'ai pendant 1-2 ans appris comment les systemes opérationnels fonctionnnent.
+
+### projets : ###
+
+* Bootloader + Kernel en Nasm + C
+
+* 
 
 La majorité de mes connaissances viennent de wiki.osdev.org. J'ai donc de l'expériance dans l'assembleur et du C au niveau Hardware. 
 
