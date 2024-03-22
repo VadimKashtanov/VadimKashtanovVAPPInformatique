@@ -5,7 +5,7 @@ J'ai eu plusieurs phases dans mon projet de Deep Learning, dernierement réecrit
 
 Mon plus gros projet en optimisation Mathématique est la conception et l'implémentation d'une méthode de Calcule de la Matrice Hessienne pour tout type de Model. La vitesse de cet amgorithme peut etre quasiement égale a celle d'un simple forward-Backward pour obtenire seulement le Gradient des poids du Model. Tout depends de la precision et de la nature du model.
 
-Je n'ai pas fait de version présentable, car je travaille toujours dessus, mais voici le fichier python (pas cuda) "théorie" : https://github.com/VadimKashtanov/fichier_dL_ddL
+Je n'ai pas fait de version présentable, car je travaille toujours dessus, mais voici le fichier python (pas cuda) "théorie" : https://github.com/VadimKashtanov/fichier_dL_ddL.  Le fichier montrer que l'algorithme donne des résultats exacte et en un temps quasiement n fois plus court que si on fesait une itération de forward-backward.
 
 J'ai implémenté ma méthode en C++/CUDA ici :  https://github.com/VadimKashtanov/V-1.12/ . Il n'y a pas qu'un seul fichier car la méthode implique d'etre implémenté pour tout type d'instruction (couche d'un model).
 
