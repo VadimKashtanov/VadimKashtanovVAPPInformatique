@@ -15,3 +15,7 @@ Depuis 3-4 je ne travaille plus qu'avec Linux, car le développement CUDA y est 
 J'ai fait durant ~ 2 ans du Pentest avec les divers outils linux de cybersec. J'ai utilisé Kali Linux pour un meilleur confort.
 
 Les outils principaux que j'ai utilisé : Nmap, Aircrack-ng, Metasploit Framework, sqlmap, nikto
+
+
+
+Ps : Je n'ai pas de depos Github pour montrer mon travaille car je gardait tout sur mon PC
