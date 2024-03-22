@@ -10,4 +10,9 @@
 
 Principalement Nasm.
 
-# #
+# Ruby, Java, Go, Rust #
+
+* Ruby
+* Java
+* Go
+* Rust
