@@ -1,12 +1,12 @@
 # Mon expériance Développement d'OS #
 
-J'ai pendant 1-2 ans appris comment les systemes opérationnels fonctionnnent.
+J'ai pendant 1-2 ans appris comment les systemes opérationnels fonctionnnent, ainsi que le Hardware de maniere générale.
 
 ### projets : ###
 
-* Bootloader + Kernel en Nasm + C
+* Bootloader + petit Kernel en Nasm + C
 
-* 
+* Meme chose mais en Rust, avec https://os.phil-opp.com/
 
 La majorité de mes connaissances viennent de wiki.osdev.org. J'ai donc de l'expériance dans l'assembleur et du C au niveau Hardware. 
 
@@ -20,4 +20,4 @@ Depuis 3-4 je ne travaille plus qu'avec Linux, car le développement CUDA y est 
 
 J'ai fait durant ~ 2 ans du Pentest avec les divers outils linux de cybersec. J'ai utilisé Kali Linux pour un meilleur confort.
 
-Les outils principaux que j'ai utilisé : Nmap, Aircrack-ng, Metasploit Framework, sqlmap, nikto
+Les outils principaux que j'ai utilisé : Nmap, Aircrack-ng, Metasploit Framework, sqlmap, nikto.
