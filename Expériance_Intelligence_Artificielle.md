@@ -3,7 +3,7 @@ J'ai eu plusieurs phases dans mon projet de Deep Learning, dernierement réecrit
 
 # Expériance Optimisation Mathématique #
 
-Mon plus gros projet en optimisation Mathématique est la conception et l'implémentation d'une méthode de Calcule de la Matrice Hessienne pour tout type de Model, dans un temps plus petit que O(n^2).  La vitesse depend du type de model, d'a quel point les poids sont liés, et d'a quel point on veut reduire la precision, mais la vitesse est entre O(n^1) et O(n^2).
+Mon plus gros projet en optimisation Mathématique est la conception et l'implémentation d'une méthode de Calcule de la Matrice Hessienne pour tout type de Model. La vitesse de cet amgorithme peut etre quasiement égale a celle d'un simple forward-Backward pour obtenire seulement le Gradient des poids du Model. Tout depends de la precision et de la nature du model.
 
 Je n'ai pas fait de version présentable, car je travaille toujours dessus, mais voici le fichier python (pas cuda) "théorie" : https://github.com/VadimKashtanov/fichier_dL_ddL
 
