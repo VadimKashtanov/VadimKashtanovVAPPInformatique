@@ -1,6 +1,6 @@
 # Ici est mon Dossier VAPP #
 
-J'ai réunit tous les fichiers montrants mes aquis Personnels en Informatique durant ma vie en un seul lieux pour ne pas avoire a lier trop de documents.
+J'ai réunit tous les fichiers montrants mes aquis Personnels en Informatique durant ma vie en un seul lieux pour ne pas avoir a lier trop de documents dans le mail.
 
 J'espère que mes résumés seront clairs.
 
