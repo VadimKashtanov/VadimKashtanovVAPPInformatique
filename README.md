@@ -8,7 +8,7 @@ Je n'ai jamais fais de licence d'informatique. Il faut 2 ans au moins apres une 
 
 J'ai nullement envie de faire un Licence d'informatique car ça serait une perte de temps pour moi, tant le niveau est Bas. Je sais que j'ai largement le niveau pour un Master d'intelligence artificielle, c'est pourquoi je me donne toutes les chances avec ce Dossier précis sur mes aquis personnels en Informatique.
 
-J'ai aussi postulé pour un master plus orienté mathématique, car j'ai le niveau pour, et la recherche en Optimisation m'interesse beaucoup.
+J'ai aussi postulé pour des master plus orientés mathématiques, car j'ai le niveau pour, et la recherche en Optimisation m'interesse beaucoup.
 
 J'ai plusieurs projets d'avenire pour ma carriere qui passe par l'obtention d'un Master en IA / Optimisation Mathématique. J'éspère donc vivement valider cette VAPP.
 
