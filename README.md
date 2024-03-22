@@ -1,12 +1,14 @@
 # Ici est mon Dossier VAPP #
 
+## Kashtanov Vadim ##
+
 ### Objectif VAPP ###
 
 J'ai fais une licence Mathématique uniquement, que je n'ai pas terminé car je souhaite me réorienter vers une application de l'optimisation mathématique en Informatique : L'intelligence Artificielle. J'aime les mathématiques, mais je ne souhaite pas travailler dans toutes les branches de mathématiques.
 
 Je n'ai jamais fais de licence d'informatique. Il faut 2 ans au moins apres une reprise d'etudes pour une VAPP, si on considere ma Licence de Mathématiques comme une partie de mes aquis personnels, je suis dans le cadre de la VAPP.
 
-J'ai nullement envie de faire un Licence d'informatique car ça serait une perte de temps pour moi, tant le niveau est Bas. Je sais que j'ai largement le niveau pour un Master d'intelligence artificielle, c'est pourquoi je me donne toutes les chances avec ce Dossier précis sur mes aquis personnels en Informatique.
+J'ai nullement envie de faire un Licence d'informatique car ça serait une perte de temps pour moi.
 
 J'ai aussi postulé pour des master plus orientés mathématiques, car j'ai le niveau pour, et la recherche en Optimisation m'interesse beaucoup.
 
@@ -18,7 +20,9 @@ J'ai réunit tous les fichiers montrants mes aquis Personnels en Informatique du
 
 J'espère que mes résumés seront clairs.
 
-Je n'ai pas de liens pour tous mes travaux car je n'ai pas toujours utilisé Github, neanmoins, je serais ravis de venire en présenciel defendre mes connaissance pour valider cette VAPP.
+**Je n'ai pas de liens pour tous mes travaux car je n'ai pas toujours utilisé Github, neanmoins, je serais ravis de venire en présenciel defendre mes connaissance pour valider cette VAPP.**
+
+Coordonnées : vadkashtanov@yandex.ru  +33677895253
 
 ### Ce dossier comporte les fichiers suivants : ###
 
