@@ -22,6 +22,8 @@ Ma lib peut resoudre tout type de problemes. Seulement je me suis concentré dep
 
 Perspectives : Peut etre que je passerai a des problemes plus complexes comme la compehention de la langue, mais je pense que ça fera l'objet de mon Master 2.
 
+Je suis donc famillier et ai de l'expériance avec les notions de : Regularization, Computer Vision, Optimisation, Reseaux Recurrents, Attention Mechanisme ...  
+
 # Expériance Data Visualisation #
 
 J'ai beaucoup utilisé matplotlib pour visualiser les données des problemes que j'ai rencontré. Je n'ai pas de projet spécifique, car c'est un outil, tout comme la visualisation elle meme.
