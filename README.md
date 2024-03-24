@@ -14,6 +14,8 @@ J'ai aussi postulé pour des master plus orientés mathématiques, car j'ai le n
 
 J'ai plusieurs projets d'avenire pour ma carriere qui passe par l'obtention d'un Master en IA / Optimisation Mathématique. Je souhaite innover dans le domaine. J'éspère donc vivement valider cette VAPP.
 
+Je souhaite évidement faire des mathématique pour l'optimisation. La recherche en intelligence artificielle implique de maniere absoluement évident de la recherche en mathématique théorique.
+
 ### Raison du lien Github ###
 
 J'ai réunit tous les fichiers montrants mes aquis Personnels en Informatique durant ma vie en un seul lieux pour ne pas avoir a lier trop de documents dans le mail.
