@@ -48,4 +48,6 @@ J'ai apris completement l'informatique en auto-didacte, mais j'ai néanmoins fai
 
 ### - ###
 
+Linkedin : www.linkedin.com/in/kashtanov-vadim-096692261
+
 Corrdialement
