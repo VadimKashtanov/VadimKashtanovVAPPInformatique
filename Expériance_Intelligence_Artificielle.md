@@ -16,7 +16,7 @@ J'ai implémenté ma méthode en C++/CUDA ici :  https://github.com/VadimKashtan
 J'ai eu plusieurs versions pour mon projet d'IA :
 * Une premiere version 100% en C sur CPU qui pouvait resoudre des problemes de XOR a MNIST.
 * Une seconde expériance qui est résté une expériance ou je travaille sur la selection naturelle des reseau de neurones non denses.
-* Et enfin la version "moderne" qui ressemble probablement a un Tensorflow : https://github.com/VadimKashtanov/Filtres-1.4-4a1c3a1-
+* Et enfin la version "moderne" qui ressemble probablement a un Tensorflow : https://github.com/VadimKashtanov/Filtres-1.4-4a1c3a1-  (Mise a jour Mai 2024 : https://github.com/VadimKashtanov/Vecteurs-1a2)
 
 Ma lib peut resoudre tout type de problemes. Seulement je me suis concentré depuis 1.5 ans sur la prédiction des "time series" a savoire la prédiction des courbes dans le temps (ex : le cour d'un Marché). J'utilise une methode alternative a LSTM meme si j'ai implémenté une version fonctionnelle et optimisé de LSTM.
 
