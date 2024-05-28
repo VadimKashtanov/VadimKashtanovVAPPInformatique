@@ -32,4 +32,4 @@ J'ai beaucoup utilisé matplotlib pour visualiser les données des problemes que
 
 J'ai donc implémenté sans cuBLAS la Convolution, les couches Denses (multiplication de matrice maximalement rapides, avec une somme et un fonction d'activation f(ax+b)) et LSTM/GRU.
 
-De tout maniere tout est dérivé de la multiplication de matrice, j'ai donc fabriqué une librairie ou je peux librement implémenter tout type de couche.
+De toute maniere tout est dérivé de la multiplication de matrice, j'ai donc fabriqué une librairie ou je peux librement implémenter tout type de couche.
