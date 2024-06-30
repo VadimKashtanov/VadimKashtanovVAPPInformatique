@@ -1,3 +1,5 @@
+J'ai envoyé le mail comme il faut, avec le fichier comme il faut. J'y ai mis le lien vers cette page. Il me semble logique d'utiliser github si c'est une VAPP d'informatique.
+
 # Ici est mon Dossier VAPP #
 
 Cliquez sur les fichier au dessus pour en voire le contenue.
