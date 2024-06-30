@@ -1,6 +1,10 @@
+# HTML / CSS / JS
+
+J'ai suivie plusieurs cours sur internet pour maîtriser les bases de la programmation des pages web
+
 # PHP & Wamp #
 
-J'ai apris a faire des Site avec PHP sur server Wamp. Je n'ai fait que quelques projets personnels pour  apprend a utiliser ces outils.
+J'ai apris à faire des Site avec PHP sur server Wamp. Je n'ai fait que quelques projets personnels pour  apprend a utiliser ces outils.
 
 # Python avec Django & Flask #
 
