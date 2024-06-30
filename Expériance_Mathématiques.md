@@ -1,17 +1,15 @@
-Au collège / Lycée j'ai toujours de bonnes notes en Mathématiques (fluctuation de 15 a 18, j'ai ajouté un fichier a la VAPP pour les notes au BAC : RLN_sessionFermee_1949738278_2_10_10_2022_18_14_11_908.pdf)
-J'ai toujours aimé les mathématiques.
+Les mathématiques ont toujours été une passion pour moi. Ce pourquoi j'ai entammé une Licence de Mathématique. Seulement, je ne me voyais pas suivre un chemin exclusivement mathématique. Donc je cherche a me réorienter vers de l'informatique avec des mathématiques appliqués. Informatique que je pratique depuis longtemps, en auto didacte.
+
+J'ai ajouté un fichier à la VAPP pour les notes au BAC : RLN_sessionFermee_1949738278_2_10_10_2022_18_14_11_908.pdf
 
 ##  Licence Math ##
+
 J'ai fais 2 ans de Licence en Mathématiques : 
 * L1 Mathématique-Informatique-Physique : Validé
 * L2 Mathématiques : J'ai validé certaines matiere de math, et d'autre j'ai été ajourné. Néanmoins j'ai été défaillant sur un TP d'écologie et un TP de physique ce qui m'a couté l'intégration en 3eme année.
 
 Malgres tout, j'aime les mathématiques. J'ai apporté plus de temps pour l'Intelligence Artificielle ce qui explique mes ajournement dans certaines UE mathématiques.
 
-Je ne souhait pas terminé de L3 c'est pourquoi j'ai décidé de me réorienter vers une utilisation (une application) plus "réel et professionnelle" des mathématique en IA.
-
 ## Calcule Matricielle & Statistique ##
 
-J'ai un bon niveau en statistiques et en Calcule matricielle. Mon projet mathématico-informatique de Machine Learning, est basé sur le calcule matriciel et la dérivation des fonctions utilisant le calcule matriciel
-
-Les données de ma librairie sont basés sur l'analyse statistique des données dans le temps.
+Mes projets en IA m'ont permis d'aquerire une maîtrise de l'analyse, l'optimisation, les statistiques et surtout du calcule et de la differentiation tensorielle.
