@@ -2,25 +2,33 @@
 
 Je fais du Python depuis 6-7 ans.
 
+J'ai terminé plusieurs cours comme openclassrooms ou python.doctor. Mais mon expériance s'étant au dela de ces cours. 
+
 ### Librairies Principales Maitrisés ###
 
-* Matplotlib : J'ai beaucoup utilisé Matplotlib pour visualiser mes données pour mon projet de Deep Learning. J'ai une bonne et large expériance de l'outil. 
-* Pygame (SDL2 en python) : J'ai réalisé plusieurs projets personnels de jeux 2d et 3d avec Pygame.
-* Django & Flash : J'ai réalisé plusieurs sites perso avec les deux libs. J'ai aussi publié un vrai site sur pythonanywhere (que je n'ai pas renouvelé depuis 2-3 ans) aussi pour ma propre expériance.
+* Matplotlib : J'ai beaucoup utilisé Matplotlib pour visualiser mes données pour mon projet de Deep Learning. J'ai une bonne et large expériance de l'outil.
+* Pygame (Librairie graphique) : J'ai réalisé plusieurs projets personnels de jeux 2d et 3d avec Pygame.
+* Django & Flash : J'ai réalisé plusieurs sites perso avec les deux libs. J'ai aussi publié un vrai site sur pythonanywhere (dont je n'ai pas renouvellé l'hebergement, je ne peux donc pas vous le montrer).
+* Tensorflow & Keras : En parralèle de mon travaille sur mon projet principale, j'ai apris a maîtriser les fondement de ces librairies.
+* Divers librairies de cryptographie classique comme quantum-safe.
+* Les librairies python standartes pour le reseau.
 
 # C / C++ #
 
 J'ai utilisé C/C++ pendant 4-5 ans.
 
+J'ai terminé plusieurs cours sur internet. Mais mon expériance principale vient de mes projet d'OS et d'intelligence artificielle.
+
 ### Mes projets ###
 
 * Un simulateur physique de particule en C++ avec SDL2 comme librairie Graphique
-* Mon gros projet de 4 ans d'une librairie complete de Deep learning qui peut entrainner des models sur CPU et GPU.
+* Un kernel basic boot boatlable.
+* Mon gros projet de plus de 4 ans d'une librairie complete de Deep learning qui peut entrainner des models sur CPU et GPU.
 
 # CUDA #
 
-* Mon projet de Deep Learning utilise la Carte Graphique avec CUDA. J'ai écrit tous les noyaux sans librairie externe (comme cuBLAS) pour une performance optimale et tres optimisé.
-* Exemple des Noyaux implémenté : Couche Dense (avec __shared__), LSTM, GRU, Convolution ...et evidement tous les optimiseurs et outils pour faire l'entrainnement. 
+* Mon projet de Deep Learning utilise la Carte Graphique avec CUDA. J'ai écrit tous les noyaux sans librairie externe (comme cuBLAS) pour une performance optimale.
+* Exemple des Noyaux implémenté : Couche Dense (avec __shared__), LSTM, GRU, Convolution ...
 
 # Assembleurs #
 
