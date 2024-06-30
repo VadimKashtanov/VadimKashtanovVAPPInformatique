@@ -6,8 +6,6 @@ Cliquez sur les fichier au dessus pour en voire le contenue.
 
 ### Raison du lien Github ###
 
-J'ai réunit tous les fichiers montrants mes aquis Personnels en Informatique durant ma vie en un seul lieux pour ne pas avoir a lier trop de documents dans le mail.
-
 Coordonnées : vadkashtanov@yandex.ru  +33677895253
 
 ### Ce dossier comporte les fichiers suivants : ###
