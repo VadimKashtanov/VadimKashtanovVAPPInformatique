@@ -14,7 +14,7 @@ C'est comme ça que j'y été introduit.
 
 Ma ressource principale pour l'étude de la linguistique antique c'est évidement des articles sur internet.
 
-J'ai beaucoup apris avec les ouvrages de Jean Paul Savignac ou de Georges Dumézil pour la partie Occidentale des langues Européenes. Divers autres auteurs pour les langues Slaves.
+J'ai beaucoup apris avec les ouvrages de Jean Paul Savignac ou de Georges Dumézil (notement leurs dictionnaires) pour la partie Occidentale des langues Européenes. Divers autres auteurs pour les langues Slaves.
 
 J'utilise également les sites comme Wiktionary.org, ou divers blog de chercheurs en linguistique et génétique (car les deux sont très liés).
 
