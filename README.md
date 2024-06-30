@@ -22,6 +22,10 @@ Coordonnées : vadkashtanov@yandex.ru  +33677895253
 
 *  ***Kashatnov Vadim.docx*** - Mon CV
 
+### Avenir
+
+Je souhait orienter mon avenir vers l'auto-entreprenariat dans plusieurs domaines de l'informatique.
+
 ### - ###
 
 Linkedin : www.linkedin.com/in/kashtanov-vadim-096692261
