@@ -1,4 +1,4 @@
-Les mathématiques ont toujours été une passion pour moi. Seulement, je ne me voyais pas suivre un chemin exclusivement mathématique. Donc je cherche a me réorienter vers de l'informatique avec des mathématiques appliqués. Informatique que je pratique depuis longtemps, en auto didacte.
+Les mathématiques ont toujours été une passion pour moi. Seulement, je ne me voyais pas suivre un chemin exclusivement mathématique. Donc je cherche à me réorienter vers de l'informatique avec des mathématiques appliqués. Informatique que je pratique depuis longtemps, en auto didacte.
 
 J'ai ajouté un fichier à la VAPP pour les notes au BAC : RLN_sessionFermee_1949738278_2_10_10_2022_18_14_11_908.pdf
 
